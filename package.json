@@ -1,0 +1,17 @@
+{
+  "name": "dogecoin-serverless-tracker",
+  "version": "0.0.1",
+  "description": "Doge coin tracker",
+  "main": "handler.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnAukstak/dogecoin-serverless-tracker.git"
+  },
+  "author": "Shawn Aukstakalnis",
+  "license": "MIT",
+  "homepage": "https://github.com/ShawnAukstak/dogecoin-serverless-tracker#readme",
+  "dependencies": {
+    "aws-sdk": "^2.181.0",
+    "node-coinmarketcap-api": "^1.0.4"
+  }
+}
